@@ -1,0 +1,1 @@
+This project requires all files to work properly. This project was completed in collaboration between Cid Brownell and Sebastien Beauvais. Currently, Sebastien Beauvais is reworking some of the files to include more security and improve functionality.
