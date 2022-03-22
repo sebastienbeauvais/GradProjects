@@ -1,0 +1,1 @@
+This project requires all files to work properly. We ran it using phpmyadmin. This project was completed in collaboration between Cid Brownell and Sebastien Beauvais.
